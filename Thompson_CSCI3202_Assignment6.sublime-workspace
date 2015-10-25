@@ -1,0 +1,461 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"loge",
+				"longestPaths"
+			],
+			[
+				"lonest",
+				"longestPaths"
+			],
+			[
+				"curr",
+				"currentNode"
+			],
+			[
+				"current",
+				"currentPath"
+			],
+			[
+				"curre",
+				"currentSource"
+			],
+			[
+				"Current",
+				"currentPath"
+			],
+			[
+				"length",
+				"lengthToGo"
+			],
+			[
+				"cu",
+				"currentNode"
+			],
+			[
+				"curren",
+				"currentPath"
+			],
+			[
+				"longest",
+				"longestPaths"
+			],
+			[
+				"longes",
+				"longestPaths"
+			],
+			[
+				"worl",
+				"wordListFile"
+			],
+			[
+				"word",
+				"wordList"
+			],
+			[
+				"wor",
+				"wordList"
+			],
+			[
+				"import",
+				"importWordList"
+			],
+			[
+				"lef",
+				"leftNode"
+			],
+			[
+				"le",
+				"leftNode"
+			],
+			[
+				"a",
+				"aboveNode"
+			],
+			[
+				"bl",
+				"belowNode"
+			],
+			[
+				"right",
+				"rightNode"
+			],
+			[
+				"max",
+				"maxloop"
+			],
+			[
+				"bel",
+				"belowNode"
+			],
+			[
+				"above",
+				"aboveNode"
+			],
+			[
+				"maxim",
+				"maximumUtility"
+			],
+			[
+				"left",
+				"leftNode"
+			],
+			[
+				"util",
+				"utility"
+			],
+			[
+				"uti",
+				"utility"
+			],
+			[
+				"print",
+				"printUtilities"
+			],
+			[
+				"re",
+				"rightExpectedUtility"
+			],
+			[
+				"ab",
+				"aboveExpectedUtility"
+			],
+			[
+				"M",
+				"MDPNode"
+			],
+			[
+				"sell",
+				"sellDate"
+			],
+			[
+				"buy",
+				"buyDate"
+			],
+			[
+				"di",
+				"differenceArray"
+			],
+			[
+				"maximum",
+				"maximumSubarray"
+			],
+			[
+				"cros",
+				"crossSum"
+			],
+			[
+				"cross",
+				"crossHigh"
+			],
+			[
+				"righ",
+				"rightHigh"
+			],
+			[
+				"find",
+				"findMaximumSubarray"
+			],
+			[
+				"difference",
+				"differenceArray"
+			],
+			[
+				"differ",
+				"differenceArray"
+			],
+			[
+				"date",
+				"dateData"
+			],
+			[
+				"csv",
+				"csvData"
+			],
+			[
+				"dat",
+				"dateData"
+			],
+			[
+				"cs",
+				"csvData"
+			],
+			[
+				"diff",
+				"differenceArray"
+			],
+			[
+				"line",
+				"lineArray"
+			],
+			[
+				"world",
+				"worldFile"
+			],
+			[
+				"O",
+				"ObjectId"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"running",
+				"runningTimes"
+			],
+			[
+				"sort",
+				"sortedRandomIntegers"
+			],
+			[
+				"min",
+				"minimumValue"
+			],
+			[
+				"verte",
+				"vertex2"
+			],
+			[
+				"vertex",
+				"vertex1"
+			],
+			[
+				"ver",
+				"vertices"
+			],
+			[
+				"being",
+				"beingDeleted"
+			],
+			[
+				"s",
+				"searchTree"
+			],
+			[
+				"prin",
+				"printTree"
+			],
+			[
+				"paret",
+				"parentNode"
+			],
+			[
+				"parent",
+				"parentNode"
+			],
+			[
+				"paren",
+				"parentNode"
+			],
+			[
+				"node",
+				"nodeQueue"
+			],
+			[
+				"Binary",
+				"BinaryTree"
+			],
+			[
+				"Bin",
+				"Binary"
+			],
+			[
+				"int",
+				"intQ"
+			],
+			[
+				"__",
+				"__init__"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: While Loop"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Matt/Dropbox/School/Algorithms/assignments/assignment5/Thompson_Matthew_HW5.py",
+		"/Users/Matt/Dropbox/School/Algorithms/assignments/assignment3/Thompson_Matthew_HW3.py",
+		"/Users/Matt/Dropbox/School/Algorithms/assignments/assignment3/apple.csv",
+		"/Users/Matt/Dropbox/School/Algorithms/assignments/assignment3/.googl.csv",
+		"/Users/Matt/Dropbox/School/Intro to Artificial Intelligence/assignments/assignment3/Thompson_CSCI3202_Assignment3/Thompson_CSCI3202_Assignment3.py",
+		"/Users/Matt/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Matt/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Matt/Dropbox/School/Algorithms/assignments/assignment3/untitled.sublime-project",
+		"/Users/Matt/Dropbox/School/Intro to Artificial Intelligence/assignments/assignment3/Thompson_CSCI3202_Assignment3/AStarNode.py",
+		"/Users/Matt/Dropbox/School/Intro to Artificial Intelligence/assignments/assignment1/Thompson_CSCI3202_Assignment1/Node.py",
+		"/Users/Matt/Dropbox/School/Intro to Artificial Intelligence/assignments/assignment1/Thompson_CSCI3202_Assignment1/Thompson_Assignment1.py",
+		"/Users/Matt/Dropbox/School/Intro to Artificial Intelligence/assignments/assignment3/Thompson_CSCI3202_Assignment3/untitled.sublime-project",
+		"/Users/Matt/Dropbox/Work/TradeRate/prototype/server/models/Item.js",
+		"/Users/Matt/Dropbox/Work/TradeRate/prototype/server/models/Image.js",
+		"/Users/Matt/Dropbox/Work/TradeRate/prototype/server/config/routes.js",
+		"/Users/Matt/Dropbox/Work/TradeRate/prototype/server/controllers/items.js",
+		"/Users/Matt/Dropbox/Work/TradeRate/prototype/server/config/config.js",
+		"/Users/Matt/Dropbox/Work/TradeRate/prototype/public/app/app.js",
+		"/Users/Matt/Dropbox/Work/TradeRate/prototype/main.js",
+		"/Users/Matt/Dropbox/School/Intro to Artificial Intelligence/assignments/assignment1/Thompson_CSCI3202_Assignment1/BinaryTree.py",
+		"/Users/Matt/Dropbox/School/Intro to Artificial Intelligence/assignments/assignment1/Thompson_CSCI3202_Assignment1/.gitignore",
+		"/Users/Matt/Dropbox/School/Intro to Artificial Intelligence/assignments/assignment1/Thompson_CSCI3202_Assignment1/README.md",
+		"/Users/Matt/Dropbox/School/Intro to Artificial Intelligence/assignments/assignment1/Thompson_CSCI3202_Assignment1/IntQueue.py",
+		"/Users/Matt/Dropbox/School/Intro to Artificial Intelligence/assignments/assignment1/Thompson_CSCI3202_Assignment1/Thompson_CSCI3203_Assignment1.sublime-project",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/includes/scripts.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/includes/layout.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/views/index.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/app.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/main/new-courses.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/main/maMainCtrl.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/main/main.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/main/featured-courses.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/navbar-login.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/maNavbarLoginCtrl.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server.js",
+		"/Users/Matt/Desktop/lab1"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"descendants",
+			"descendents",
+			"neighbors",
+			"wordList",
+			"tab",
+			"next",
+			"Item.find()",
+			"process.env.SECRET",
+			"process.env",
+			"proccess.env",
+			"raise",
+			"ra",
+			"raise",
+			"&&",
+			"subtree"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"neighbors",
+			"descendants",
+			"descendents",
+			"and",
+			"parentNode"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true
+}
