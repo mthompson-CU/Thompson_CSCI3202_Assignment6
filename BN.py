@@ -29,3 +29,6 @@ class BN():
 				i.distribution['true'] = priorValue
 				i.distribution['false'] = float(1 - priorValue)
 				print 'Setting new prior distribution for ' + str(i.name) + ': ' + str(i.distribution)
+
+	def calculateConditionalProbability(self, variable, conditions):
+		

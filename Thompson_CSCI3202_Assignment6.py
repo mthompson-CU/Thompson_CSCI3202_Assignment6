@@ -8,7 +8,7 @@ import BNNode
 import BN
 
 def buildBayesNet():
-	distributions = {'P': {'true': 0.9, 'false': 0.1}, 'S': {'true': 0.3, 'false': 0.7}, 'C': {'lt': 0.03, 'lf': 0.001, 'ht': 0.05, 'hf': 0.02}, 'X': {'true': 0.9, 'false': 0.2}, 'D': {'true': 0.65, 'false': 0.30}}
+	distributions = {'P': {'true': 0.9, 'false': 0.1}, 'S': {'true': 0.3, 'false': 0.7}, 'C': {'tt': 0.03, 'tf': 0.001, 'ft': 0.05, 'ff': 0.02}, 'X': {'true': 0.9, 'false': 0.2}, 'D': {'true': 0.65, 'false': 0.30}}
 	nodeNames = ('P', 'S', 'C', 'X', 'D')
 
 	nodes = []
@@ -36,6 +36,8 @@ def getOptions(argv, bayesNet):
 		print str(err) # will print something like "option -a not recognized"
 		sys.exit(2)
 	for option, arguments in opts:
+		print opts
+		print args
 		if option in ("-p"):
 			bayesNet.setPriorValue(arguments[0], float(arguments[1:]))
 		elif option in ("-m"):
@@ -53,7 +55,7 @@ def getOptions(argv, bayesNet):
 			p = arguments.find("|")
 			print arguments[:p]
 			print arguments[p+1:]
-			#calcConditional(arguments[:p], arguments[p+1:])
+			bayesNet.calculateConditionalProbability(arguments[:p], arguments[p+1:])
 		elif option in ("-j"):
 			print "flag", option
 			print "args", arguments
