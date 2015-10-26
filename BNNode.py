@@ -3,8 +3,6 @@
 # Implements a node for use in a Bayesian Network
 
 class BNNode():
-	def __init__(self, distribution={}, children=[], parents=[]):
+	def __init__(self, name, distribution={}):
+		self.name = name
 		self.distribution = distribution
-		self.children = children
-		self.parents = parents
-		
